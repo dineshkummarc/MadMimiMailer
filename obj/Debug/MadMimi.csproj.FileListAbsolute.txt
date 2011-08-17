@@ -1,0 +1,5 @@
+C:\@projects\MadMimi\obj\Debug\ResolveAssemblyReference.cache
+C:\@projects\MadMimi\bin\Debug\MadMimi.dll
+C:\@projects\MadMimi\bin\Debug\MadMimi.pdb
+C:\@projects\MadMimi\obj\Debug\MadMimi.dll
+C:\@projects\MadMimi\obj\Debug\MadMimi.pdb
